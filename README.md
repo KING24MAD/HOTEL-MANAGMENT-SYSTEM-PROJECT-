@@ -14,8 +14,4 @@ Follow the on-screen  prompts to :
 2. Choose whether to add a second item
 3. View your final order total
 
-there are some possible improvemnt which i think i could have more done wich are as follows -->
-- Allow ordering more than 2 items (e.g., using a loop)
-- Handle invalid input more gracefully
-- Add item quantities
-- Save orders to a file or database
+
